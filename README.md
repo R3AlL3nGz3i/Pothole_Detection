@@ -9,6 +9,10 @@ This project uses YOLOv8 to perform pothole detection.
 
 # Test model
 ![image](https://github.com/R3AlL3nGz3i/Pothole_Detection/assets/85697619/fc365feb-a639-484c-9812-d435c99f007b)
+![image](https://github.com/R3AlL3nGz3i/Pothole_Detection/assets/85697619/6fff87ca-8417-49c9-9fc2-975ece03276c)
 
 ![image](https://github.com/R3AlL3nGz3i/Pothole_Detection/assets/85697619/df44c7d4-4690-4454-ae5c-439fa3346416)
 ![image](https://github.com/R3AlL3nGz3i/Pothole_Detection/assets/85697619/1140a709-ea38-4d78-bf12-1548ad991f54)
+
+# Export Model
+![image](https://github.com/R3AlL3nGz3i/Pothole_Detection/assets/85697619/6f4263d9-12f7-4501-b6ac-02c806462fcd)
